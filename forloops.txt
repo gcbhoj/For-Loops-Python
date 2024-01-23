@@ -1,0 +1,44 @@
+Print Numbers:
+Write a program to print numbers from 1 to 10.
+
+Even Numbers:
+Print all even numbers between 1 and 20.
+
+Sum of Squares:
+Calculate and print the sum of squares of numbers from 1 to 5.
+
+Reverse String:
+Given a string, print it in reverse order.
+
+Factorial:
+Write a program to calculate the factorial of a given number.
+
+Multiplication Table:
+Print the multiplication table of a given number (up to 10).
+
+Count Vowels:
+Given a string, count and print the number of vowels (a, e, i, o, u) in it.
+
+List Sum:
+Calculate and print the sum of elements in a list.
+Fibonacci Sequence:
+Print the first 10 numbers in the Fibonacci sequence.
+Sum of Array Elements
+Write a program that calculates the sum of all elements in an array.
+Find Maximum Element
+Write a program to find the maximum element in an array.
+Array Reversal
+Write a program to reverse the elements of an array.
+Count Odd Numbers
+Write a program to count the number of odd numbers in an array.
+Array Multiplication
+Write a program to multiply each element in an array by a given factor.
+Finding Prime Numbers
+Write a program to identify and print all prime numbers in an array.
+Squares of Numbers
+Write a program to create a new array containing the squares of each number in the original array.
+Removing Duplicates
+Write a program to remove duplicates from an array.
+Replacing Negative Numbers
+Write a program to replace negative numbers in an array with 0.
+
